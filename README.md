@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Renu Gangwar
 
-<!--
-**renugangwar1/renugangwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I work on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel Applications
+- Examination Management Systems
+- Student Information Systems
+- PHP & MySQL Development
+
+## 🚀 Tech Stack
+
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 📌 Current Work
+
+Working on educational and examination management platforms.
+
+## 📫 Contact
+
+Email: your-email@example.com
