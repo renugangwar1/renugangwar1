@@ -1,40 +1,44 @@
 <div align="center">
 
-# Hi 👋 I'm Renu Gangwar
+# 👋 Hi, I'm Renu Gangwar
 
 ### Full Stack Developer • Laravel Developer • MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Laravel+%7C+MERN+Stack+Developer;Educational+Technology+Solutions;Examination+Management+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Laravel+and+MERN+Stack+Developer;Educational+Technology+Solutions;Chat+Applications+and+Business+Platforms;Always+Learning+and+Building" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-💜 Passionate Full Stack Developer specializing in **Laravel**, **React**, and **MERN Stack**
+I'm a Full Stack Developer from **Noida, Uttar Pradesh, India 🇮🇳**
 
-🎓 Building large-scale **Educational Platforms**, **Examination Management Systems**, and **Academic ERP Solutions**
+I enjoy building complete web applications from database design to deployment.
 
-⚡ Strong focus on:
-- Scalable Architecture
-- Workflow Automation
-- REST APIs
-- Performance Optimization
-- Clean Code Practices
+My experience includes:
 
-🌱 Currently learning:
-- Advanced System Design
-- Cloud Deployment
-- DevOps Fundamentals
+🎓 Educational Management Systems
+
+📝 Examination Management Platforms
+
+💬 Real-Time Chat Applications
+
+💄 Beauty & Cosmetics E-Commerce Websites
+
+🍽️ Restaurant Management Websites
+
+📊 Attendance & Academic Tracking Systems
+
+🚀 Workflow Automation Solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -44,7 +48,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" />
 
 ### Database
 
@@ -58,113 +62,164 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 💼 Featured Projects
+
+## 🎓 Examination Management System
+
+A complete examination workflow platform developed for educational institutions.
+
+### Features
+
+- Student Management
+- Course Management
+- Marks Import
+- Result Processing
+- Academic Reporting
+- Examination Scheduling
+- Faculty Workflows
+
+---
+
+## 🏫 Academic Management System
+
+Comprehensive academic administration platform.
+
+### Features
+
+- Student Records
+- Course Allocation
+- Attendance Tracking
+- Academic Reports
+- Faculty Management
+
+---
+
+## 💬 WhatsApp Inspired Chat Application
+
+Real-time messaging platform with modern UI.
+
+### Features
+
+- Real-Time Messaging
+- Chat Rooms
+- User Authentication
+- Modern Responsive Interface
+- Instant Communication
+
+---
+
+## 💄 HoneyBee Beauty Platform
+
+Beauty and cosmetics website designed for product showcase and customer engagement.
+
+### Features
+
+- Product Catalog
+- Beauty Services
+- Responsive Design
+- Customer-Friendly UI
+
+---
+
+## 🍽️ Restaurant Website
+
+Restaurant management and online presence solution.
+
+### Features
+
+- Menu Management
+- Restaurant Information
+- Responsive Design
+- Customer Experience Focus
+
+---
+
+## 📅 Attendance Tracker
+
+Attendance management system for educational environments.
+
+### Features
+
+- Attendance Monitoring
+- Reports
+- Student Tracking
+- Administrative Dashboard
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=renugangwar1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=renugangwar1&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 💼 Featured Projects
-
-### 🎓 Examination Management System
-
-Enterprise-grade examination platform featuring:
-
-✔ Student Management  
-✔ Course Management  
-✔ Marks Import Automation  
-✔ Result Processing  
-✔ Academic Reports  
-✔ Examination Workflow Automation  
-
----
-
-### 🏫 Academic Management System
-
-Complete institutional management platform for educational organizations.
-
----
-
-### 📅 Attendance Tracker
-
-Smart attendance tracking and reporting solution.
-
----
-
-### 🔍 QR Scanner & Verification System
-
-Secure QR-based scanning and validation application.
-
----
-
-## 🎯 Current Goals
+# 🎯 Currently Working On
 
 ```yaml
-Learning:
-  - Advanced Laravel Architecture
-  - React Ecosystem
-  - System Design
-  - Cloud Technologies
-
-Building:
-  - Educational ERP Solutions
-  - Examination Platforms
-  - Workflow Automation Tools
+Current Focus:
+  - Laravel Development
+  - MERN Stack Applications
+  - Educational ERP Systems
+  - Examination Automation
+  - REST APIs
+  - System Architecture
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Highlights
+
+✅ Built Multiple Educational Platforms
+
+✅ Developed Examination Management Systems
+
+✅ Created Real-Time Chat Application
+
+✅ Built Beauty & Cosmetics Platform
+
+✅ Developed Restaurant Website
+
+✅ Experience with Laravel & MERN Stack
+
+✅ Strong Database Design Skills
+
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=renugangwar1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true"/>
+📍 Noida, Uttar Pradesh, India
 
-</div>
+💻 Full Stack Developer
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/renugangwar1">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+🌐 Open to Collaboration & New Opportunities
 
 </div>
 
@@ -172,6 +227,8 @@ Building:
 
 <div align="center">
 
-### ✨ Building technology that simplifies education and examination workflows ✨
+### "Building solutions that make education and businesses smarter."
+
+⭐ Thanks for visiting my profile!
 
 </div>
