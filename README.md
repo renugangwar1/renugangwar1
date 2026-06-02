@@ -1,78 +1,88 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renu%20Gangwar&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20MERN&descAlignY=60" />
+
 <div align="center">
 
-# ✨ Hi, I'm Renu Gangwar ✨
-
-### 💜 Full Stack Developer | Laravel Developer | MERN Stack Developer 💜
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Educational+Platforms+📚;Laravel+Developer+🚀;MERN+Stack+Developer+💻;Passionate+About+Technology+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;Full+Stack+Developer+💻;Laravel+Developer+🚀;MERN+Stack+Developer+⚡;Building+Educational+Platforms+📚" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-💜 Full Stack Developer
+<img align="right" width="280" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-📚 Building Examination & Academic Management Systems
+💖 Full Stack Developer
 
-🌱 Learning Advanced Laravel, React & Node.js
+🌱 Learning React, Node.js & Advanced Laravel
+
+🎓 Building Examination Management Systems
+
+📍 Noida, India
+
+✨ Passionate about creating impactful educational technology
+
+☕ Coffee + Code + Creativity
+
+<br clear="right"/>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,mysql,mongodb,js,bootstrap,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+# 🌷 Current Projects
+
+🎓 Examination Management System
+
+📚 Academic Management Platform
+
+📱 QR Scanner
+
+✅ Attendance Tracker
+
+---
+
+# 💕 Fun Facts
+
+🌸 Love building useful applications
+
+💻 Enjoy solving complex problems
+
+🚀 Always learning new technologies
+
+✨ Turning ideas into reality
+
+---
+
+# 🌈 Connect
+
+<div align="center">
+
+💌 GitHub: github.com/renugangwar1
 
 📍 Noida, Uttar Pradesh, India
 
-✨ Love creating useful applications that solve real-world problems
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-</p>
-
----
-
-## 🌷 Currently Working On
-
-✨ Examination Management System
-
-✨ Academic Management Platform
-
-✨ Student Information Systems
-
-✨ Educational Technology Solutions
-
----
-
-## 🎀 Featured Projects
-
-### 🎓 Examination Management System
-Comprehensive platform for examinations, marks processing and result generation.
-
-### 📚 Academic Management System
-Academic administration and student management solution.
-
-### ✅ Attendance Tracker
-Attendance management system built with PHP and MySQL.
-
-### 📱 QR Scanner
-Modern QR scanning application.
-
----
-
-## 🌈 Connect With Me
-
-💻 GitHub: github.com/renugangwar1
-
-📍 Noida, India
+</div>
 
 ---
 
@@ -80,6 +90,8 @@ Modern QR scanning application.
 
 ### ✨ Thanks for visiting my profile ✨
 
-🌸 Have a wonderful day 🌸
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
