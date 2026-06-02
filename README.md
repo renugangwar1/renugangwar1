@@ -89,42 +89,65 @@ Passionate About:
 </div>
 
 ---
+## 🚀 What I Build
 
-## 🔥 What I Build
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-### 🎓 Education
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
 
-Academic Systems  
-Examination Platforms  
-Attendance Solutions
+### Education Solutions
+
+📚 Academic Systems
+
+📝 Examination Platforms
+
+📊 Attendance Solutions
+
+🎓 Student Management
 
 </td>
 
 <td align="center" width="33%">
 
-### 💬 Communication
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
 
-Chat Applications  
-Real-Time Messaging  
-User Collaboration
+### Communication Apps
+
+💬 Chat Applications
+
+⚡ Real-Time Messaging
+
+👥 User Collaboration
+
+🔐 Authentication Systems
 
 </td>
 
 <td align="center" width="33%">
 
-### 🚀 Business
+<img src="https://skillicons.dev/icons?i=laravel" width="60"/>
 
-Beauty Platforms  
-Restaurant Websites  
-Workflow Automation
+### Business Platforms
+
+💄 Beauty Platforms
+
+🍽️ Restaurant Websites
+
+🚀 Workflow Automation
+
+📈 Business Management
 
 </td>
 
 </tr>
+</table>
+
+</div>
 </table>
 
 ---
