@@ -78,19 +78,6 @@ A complete examination workflow platform developed for educational institutions.
 - Examination Scheduling
 - Faculty Workflows
 
----
-
-## 🏫 Academic Management System
-
-Comprehensive academic administration platform.
-
-### Features
-
-- Student Records
-- Course Allocation
-- Attendance Tracking
-- Academic Reports
-- Faculty Management
 
 ---
 
