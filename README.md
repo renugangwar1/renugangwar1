@@ -1,191 +1,165 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B5CF6&text=Renu%20Gangwar&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Laravel%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=58" />
+# Hi, I'm Renu Gangwar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Laravel+and+MERN+Stack+Developer;Educational+Technology+Solutions;Chat+Applications+and+Business+Platforms;Turning+Ideas+Into+Digital+Products" />
+### Full Stack Developer • Laravel Developer • MERN Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Laravel+and+MERN+Stack+Developer;Educational+Technology+Solutions;Chat+Applications+and+Business+Platforms;Always+Learning+and+Building" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/renugangwar1?style=for-the-badge&color=8B5CF6" />
-
-<img src="https://img.shields.io/github/stars/renugangwar1?style=for-the-badge&color=8B5CF6" />
-
 </div>
 
 ---
 
-## 💫 About Me
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"> About Me
 
-```yaml
-Name: Renu Gangwar
-Location: Noida, Uttar Pradesh, India
-Role: Full Stack Developer
+I'm a Full Stack Developer from **Noida, Uttar Pradesh, India**.
 
-Specialization:
-  - Laravel Development
-  - MERN Stack Development
-  - Educational ERP Solutions
-  - Examination Management Systems
-  - Workflow Automation
-  - REST API Development
+I enjoy building complete web applications from database design to deployment.
 
-Currently Learning:
-  - System Design
-  - Cloud Deployment
-  - Advanced React Patterns
-```
+### Experience
+
+<img src="https://cdn-icons-png.flaticon.com/512/2436/2436874.png" width="18"> Educational Management Systems
+
+<img src="https://cdn-icons-png.flaticon.com/512/3976/3976626.png" width="18"> Examination Management Platforms
+
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="18"> Real-Time Chat Applications
+
+<img src="https://cdn-icons-png.flaticon.com/512/3163/3163203.png" width="18"> Beauty & Cosmetics E-Commerce Websites
+
+<img src="https://cdn-icons-png.flaticon.com/512/562/562678.png" width="18"> Restaurant Management Websites
+
+<img src="https://cdn-icons-png.flaticon.com/512/2784/2784459.png" width="18"> Attendance & Academic Tracking Systems
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="18"> Workflow Automation Solutions
 
 ---
 
-## 🚀 Tech Stack
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="28"> Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,javascript,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
-### Database & Tools
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"> Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## <img src="https://cdn-icons-png.flaticon.com/512/3976/3976626.png" width="22"> Examination Management System
 
-### 🎓 Examination Management System
+A complete examination workflow platform developed for educational institutions.
 
-Enterprise-grade examination platform.
-
-**Highlights**
+### Features
 
 - Student Management
 - Course Management
 - Marks Import
 - Result Processing
 - Academic Reporting
-- Examination Automation
+- Examination Scheduling
+- Faculty Workflows
 
-</td>
+---
 
-<td width="50%">
+## <img src="https://cdn-icons-png.flaticon.com/512/2436/2436874.png" width="22"> Academic Management System
 
-### 🏫 Academic Management System
+Comprehensive academic administration platform.
 
-Complete academic administration platform.
-
-**Highlights**
+### Features
 
 - Student Records
-- Attendance Tracking
 - Course Allocation
+- Attendance Tracking
+- Academic Reports
 - Faculty Management
-- Academic Reporting
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="22"> WhatsApp Inspired Chat Application
 
-### 💬 WhatsApp Style Chat Application
+Real-time messaging platform with modern UI.
 
-Real-time communication platform.
-
-**Highlights**
+### Features
 
 - Real-Time Messaging
+- Chat Rooms
 - User Authentication
-- Chat Interface
-- Modern Responsive UI
+- Modern Responsive Interface
+- Instant Communication
 
-</td>
+---
 
-<td width="50%">
+## <img src="https://cdn-icons-png.flaticon.com/512/3163/3163203.png" width="22"> HoneyBee Beauty Platform
 
-### 💄 HoneyBee Beauty Platform
+Beauty and cosmetics website designed for product showcase and customer engagement.
 
-Beauty & cosmetics business website.
+### Features
 
-**Highlights**
-
-- Product Showcase
+- Product Catalog
 - Beauty Services
 - Responsive Design
-- Customer Experience
+- Customer-Friendly UI
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## <img src="https://cdn-icons-png.flaticon.com/512/562/562678.png" width="22"> Restaurant Website
 
-### 🍽️ Restaurant Website
+Restaurant management and online presence solution.
 
-Restaurant management and branding platform.
+### Features
 
-**Highlights**
-
-- Digital Menu
+- Menu Management
 - Restaurant Information
 - Responsive Design
-- Online Presence
-
-</td>
-
-<td width="50%">
-
-### 📅 Attendance Tracker
-
-Attendance monitoring solution.
-
-**Highlights**
-
-- Attendance Records
-- Reporting Dashboard
-- Student Monitoring
-- Data Analytics
-
-</td>
-</tr>
-</table>
+- Customer Experience Focus
 
 ---
 
-## 🏆 Professional Highlights
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="22"> Attendance Tracker
 
-- 🎓 Developed Educational ERP Solutions
-- 📝 Built Examination Management Systems
-- 💬 Created Real-Time Chat Applications
-- 💄 Developed Beauty & Cosmetics Platforms
-- 🍽️ Built Restaurant Business Websites
-- 📊 Created Attendance & Tracking Systems
-- ⚡ Experienced in Workflow Automation
-- 🚀 Strong Backend & Database Design Skills
+Attendance management system for educational environments.
+
+### Features
+
+- Attendance Monitoring
+- Reports
+- Student Tracking
+- Administrative Dashboard
 
 ---
 
-## 📊 GitHub Statistics
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="28"> GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28"> GitHub Streak
 
 <div align="center">
 
@@ -195,56 +169,66 @@ Attendance monitoring solution.
 
 ---
 
-## 📈 Contribution Activity
+# <img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="28"> Currently Working On
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-✓ Advanced Laravel Architecture
-✓ MERN Stack Applications
-✓ Educational ERP Systems
-✓ Examination Automation
-✓ REST API Development
-✓ Performance Optimization
-✓ Scalable System Design
+```yaml
+Current Focus:
+  - Laravel Development
+  - MERN Stack Applications
+  - Educational ERP Systems
+  - Examination Automation
+  - REST APIs
+  - System Architecture
 ```
 
 ---
 
-## 🌐 Connect With Me
+# <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="28"> Highlights
+
+✔ Built Multiple Educational Platforms
+
+✔ Developed Examination Management Systems
+
+✔ Created Real-Time Chat Applications
+
+✔ Built Beauty & Cosmetics Platforms
+
+✔ Developed Restaurant Websites
+
+✔ Experience with Laravel & MERN Stack
+
+✔ Strong Database Design Skills
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/4389/4389896.png" width="28"> Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/renugangwar1">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:renugangwar13@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true" />
 
 </div>
 
-<br>
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="28"> Connect With Me
 
 <div align="center">
 
-### 💜 Building Technology That Simplifies Education & Business Workflows
+📍 Noida, Uttar Pradesh, India
+
+💻 Full Stack Developer
+
+🌐 Open to Collaboration & New Opportunities
+
+</div>
+
+---
+
+<div align="center">
+
+### Building solutions that make education and businesses smarter.
 
 ⭐ Thanks for visiting my profile!
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B5CF6" />
