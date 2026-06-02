@@ -1,152 +1,191 @@
 <div align="center">
 
-# 👋 Hi, I'm Renu Gangwar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B5CF6&text=Renu%20Gangwar&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Laravel%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=58" />
 
-### Full Stack Developer • Laravel Developer • MERN Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Laravel+and+MERN+Stack+Developer;Educational+Technology+Solutions;Chat+Applications+and+Business+Platforms;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Laravel+and+MERN+Stack+Developer;Educational+Technology+Solutions;Chat+Applications+and+Business+Platforms;Turning+Ideas+Into+Digital+Products" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
 
+<img src="https://img.shields.io/github/followers/renugangwar1?style=for-the-badge&color=8B5CF6" />
+
+<img src="https://img.shields.io/github/stars/renugangwar1?style=for-the-badge&color=8B5CF6" />
+
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a Full Stack Developer from **Noida, Uttar Pradesh, India 🇮🇳**
+```yaml
+Name: Renu Gangwar
+Location: Noida, Uttar Pradesh, India
+Role: Full Stack Developer
 
-I enjoy building complete web applications from database design to deployment.
+Specialization:
+  - Laravel Development
+  - MERN Stack Development
+  - Educational ERP Solutions
+  - Examination Management Systems
+  - Workflow Automation
+  - REST API Development
 
-My experience includes:
-
-🎓 Educational Management Systems
-
-📝 Examination Management Platforms
-
-💬 Real-Time Chat Applications
-
-💄 Beauty & Cosmetics E-Commerce Websites
-
-🍽️ Restaurant Management Websites
-
-📊 Attendance & Academic Tracking Systems
-
-🚀 Workflow Automation Solutions
+Currently Learning:
+  - System Design
+  - Cloud Deployment
+  - Advanced React Patterns
+```
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### Backend
+### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,javascript,html,css,bootstrap" />
 
-### Frontend
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🎓 Examination Management System
+<table>
+<tr>
+<td width="50%">
 
-A complete examination workflow platform developed for educational institutions.
+### 🎓 Examination Management System
 
-### Features
+Enterprise-grade examination platform.
+
+**Highlights**
 
 - Student Management
 - Course Management
 - Marks Import
 - Result Processing
 - Academic Reporting
-- Examination Scheduling
-- Faculty Workflows
+- Examination Automation
 
+</td>
 
----
+<td width="50%">
 
-## 💬 WhatsApp Inspired Chat Application
+### 🏫 Academic Management System
 
-Real-time messaging platform with modern UI.
+Complete academic administration platform.
 
-### Features
+**Highlights**
+
+- Student Records
+- Attendance Tracking
+- Course Allocation
+- Faculty Management
+- Academic Reporting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 WhatsApp Style Chat Application
+
+Real-time communication platform.
+
+**Highlights**
 
 - Real-Time Messaging
-- Chat Rooms
 - User Authentication
-- Modern Responsive Interface
-- Instant Communication
+- Chat Interface
+- Modern Responsive UI
 
----
+</td>
 
-## 💄 HoneyBee Beauty Platform
+<td width="50%">
 
-Beauty and cosmetics website designed for product showcase and customer engagement.
+### 💄 HoneyBee Beauty Platform
 
-### Features
+Beauty & cosmetics business website.
 
-- Product Catalog
+**Highlights**
+
+- Product Showcase
 - Beauty Services
 - Responsive Design
-- Customer-Friendly UI
+- Customer Experience
 
----
+</td>
+</tr>
 
-## 🍽️ Restaurant Website
+<tr>
+<td width="50%">
 
-Restaurant management and online presence solution.
+### 🍽️ Restaurant Website
 
-### Features
+Restaurant management and branding platform.
 
-- Menu Management
+**Highlights**
+
+- Digital Menu
 - Restaurant Information
 - Responsive Design
-- Customer Experience Focus
+- Online Presence
+
+</td>
+
+<td width="50%">
+
+### 📅 Attendance Tracker
+
+Attendance monitoring solution.
+
+**Highlights**
+
+- Attendance Records
+- Reporting Dashboard
+- Student Monitoring
+- Data Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📅 Attendance Tracker
+## 🏆 Professional Highlights
 
-Attendance management system for educational environments.
-
-### Features
-
-- Attendance Monitoring
-- Reports
-- Student Tracking
-- Administrative Dashboard
+- 🎓 Developed Educational ERP Solutions
+- 📝 Built Examination Management Systems
+- 💬 Created Real-Time Chat Applications
+- 💄 Developed Beauty & Cosmetics Platforms
+- 🍽️ Built Restaurant Business Websites
+- 📊 Created Attendance & Tracking Systems
+- ⚡ Experienced in Workflow Automation
+- 🚀 Strong Backend & Database Design Skills
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -156,66 +195,56 @@ Attendance management system for educational environments.
 
 ---
 
-# 🎯 Currently Working On
+## 📈 Contribution Activity
 
-```yaml
-Current Focus:
-  - Laravel Development
-  - MERN Stack Applications
-  - Educational ERP Systems
-  - Examination Automation
-  - REST APIs
-  - System Architecture
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+✓ Advanced Laravel Architecture
+✓ MERN Stack Applications
+✓ Educational ERP Systems
+✓ Examination Automation
+✓ REST API Development
+✓ Performance Optimization
+✓ Scalable System Design
 ```
 
 ---
 
-# 🏆 Highlights
-
-✅ Built Multiple Educational Platforms
-
-✅ Developed Examination Management Systems
-
-✅ Created Real-Time Chat Application
-
-✅ Built Beauty & Cosmetics Platform
-
-✅ Developed Restaurant Website
-
-✅ Experience with Laravel & MERN Stack
-
-✅ Strong Database Design Skills
-
----
-
-# 📈 Contribution Activity
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugangwar1&theme=tokyo-night&hide_border=true" />
+<a href="https://github.com/renugangwar1">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:renugangwar13@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </div>
 
----
-
-# 🤝 Connect With Me
+<br>
 
 <div align="center">
 
-📍 Noida, Uttar Pradesh, India
-
-💻 Full Stack Developer
-
-🌐 Open to Collaboration & New Opportunities
-
-</div>
-
----
-
-<div align="center">
-
-### "Building solutions that make education and businesses smarter."
+### 💜 Building Technology That Simplifies Education & Business Workflows
 
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B5CF6" />
