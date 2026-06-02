@@ -1,97 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Renu%20Gangwar&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20MERN&descAlignY=60" />
+<h1 align="center">Renu Gangwar</h1>
 
-<div align="center">
+<h3 align="center">
+Full Stack Developer | Laravel Developer | MERN Stack Developer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;Full+Stack+Developer+💻;Laravel+Developer+🚀;MERN+Stack+Developer+⚡;Building+Educational+Platforms+📚" />
+<p align="center">
+Building scalable educational platforms, examination systems and web applications.
+</p>
 
-</div>
-
----
-
-# 🌸 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-
-💖 Full Stack Developer
-
-🌱 Learning React, Node.js & Advanced Laravel
-
-🎓 Building Examination Management Systems
-
-📍 Noida, India
-
-✨ Passionate about creating impactful educational technology
-
-☕ Coffee + Code + Creativity
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Laravel-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge">
+</p>
 
 ---
 
-# 💻 Tech Stack
+## About Me
 
-<div align="center">
+I am a Full Stack Developer with experience building educational technology solutions, examination management systems, student information systems, and enterprise web applications.
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,mysql,mongodb,js,bootstrap,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=radical"/>
-
-</div>
+- Currently working on Examination Management Platforms
+- Experienced in PHP, Laravel, MySQL, JavaScript and React
+- Interested in scalable architecture and workflow automation
+- Focused on building reliable systems for educational institutions
 
 ---
 
-# 🌷 Current Projects
+## Technology Stack
 
-🎓 Examination Management System
+### Backend
 
-📚 Academic Management Platform
+```text
+PHP • Laravel • Node.js • Express.js
+```
 
-📱 QR Scanner
+### Frontend
 
-✅ Attendance Tracker
+```text
+JavaScript • React.js • HTML5 • CSS3 • Bootstrap
+```
 
----
+### Database
 
-# 💕 Fun Facts
+```text
+MySQL • MongoDB
+```
 
-🌸 Love building useful applications
+### Tools
 
-💻 Enjoy solving complex problems
-
-🚀 Always learning new technologies
-
-✨ Turning ideas into reality
-
----
-
-# 🌈 Connect
-
-<div align="center">
-
-💌 GitHub: github.com/renugangwar1
-
-📍 Noida, Uttar Pradesh, India
-
-</div>
+```text
+Git • GitHub • VS Code • Postman
+```
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### ✨ Thanks for visiting my profile ✨
+### Examination Management System
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+Complete examination workflow platform including:
 
-</div>
+- Student Management
+- Course Management
+- Marks Import
+- Result Processing
+- Academic Reporting
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+### Academic Management System
+
+Educational administration platform for institutions.
+
+### Attendance Tracker
+
+Attendance monitoring and reporting application.
+
+### QR Scanner
+
+QR-based scanning and verification solution.
+
+---
+
+## Current Focus
+
+- Advanced Laravel Development
+- React Ecosystem
+- REST API Design
+- System Architecture
+- Performance Optimization
+
+---
+
+## GitHub Highlights
+
+- Active Full Stack Development
+- Open Source Learning
+- Educational Technology Projects
+- Academic Workflow Automation
+
+---
+
+## Contact
+
+GitHub: github.com/renugangwar1
+
+Location: Noida, Uttar Pradesh, India
+
+Email: your-email@example.com
