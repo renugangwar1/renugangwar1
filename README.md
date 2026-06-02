@@ -251,15 +251,19 @@ Current Focus:
 <div align="center">
 
 <a href="https://github.com/renugangwar1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Location-Noida,%20India-8B5CF6?style=for-the-badge"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 </div>
