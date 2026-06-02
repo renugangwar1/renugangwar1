@@ -169,17 +169,6 @@ Business Management
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=renugangwar1&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
