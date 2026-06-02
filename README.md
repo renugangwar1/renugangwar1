@@ -91,42 +91,63 @@ Passionate About:
 ---
 ## 🚀 What I Build
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### 🎓 Education Solutions
+<td align="center" width="33%">
 
-- Academic Systems
-- Examination Platforms
-- Attendance Solutions
-- Student Management
+<img src="https://cdn-icons-png.flaticon.com/512/2436/2436874.png" width="60"/>
 
-</td>
+### Education Solutions
 
-<td width="33%" valign="top">
+Academic Systems
 
-### 💬 Communication Apps
+Examination Platforms
 
-- Chat Applications
-- Real-Time Messaging
-- User Collaboration
-- Authentication Systems
+Attendance Solutions
+
+Student Management
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-### 🚀 Business Platforms
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="60"/>
 
-- Beauty Platforms
-- Restaurant Websites
-- Workflow Automation
-- Business Management
+### Communication Apps
+
+Chat Applications
+
+Real-Time Messaging
+
+User Collaboration
+
+Authentication Systems
 
 </td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="60"/>
+
+### Business Platforms
+
+Beauty Platforms
+
+Restaurant Websites
+
+Workflow Automation
+
+Business Management
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
