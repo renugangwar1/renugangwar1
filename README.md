@@ -1,97 +1,85 @@
-<h1 align="center">Hi 👋, I'm Renu Gangwar</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | Laravel Developer | MERN Stack Developer
-</h3>
+# ✨ Hi, I'm Renu Gangwar ✨
+
+### 💜 Full Stack Developer | Laravel Developer | MERN Stack Developer 💜
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Educational+Platforms+📚;Laravel+Developer+🚀;MERN+Stack+Developer+💻;Passionate+About+Technology+✨" />
+
+</div>
+
+---
+
+## 🌸 About Me
+
+💜 Full Stack Developer
+
+📚 Building Examination & Academic Management Systems
+
+🌱 Learning Advanced Laravel, React & Node.js
+
+📍 Noida, Uttar Pradesh, India
+
+✨ Love creating useful applications that solve real-world problems
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-Building Examination Management Systems, Student Portals and Academic Platforms
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 Currently Working On
 
-- 🔭 Currently working on Examination Management Systems
-- 🌱 Learning Advanced Laravel, React & Node.js
-- 💼 Full Stack Developer with experience in educational platforms
-- 📍 Noida, Uttar Pradesh, India
-- ⚡ Interested in scalable web applications and automation
+✨ Examination Management System
 
----
+✨ Academic Management Platform
 
-## 🛠️ Tech Stack
+✨ Student Information Systems
 
-### Backend
-- PHP
-- Laravel
-- Node.js
-- Express.js
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+✨ Educational Technology Solutions
 
 ---
 
-## 📊 GitHub Overview
-
-- Public Repositories: Growing Collection
-- Main Focus: Laravel & MERN Applications
-- Active Projects:
-  - Examination Management System
-  - Academic Management Platform
-  - Attendance Tracker
-  - QR Scanner
-
----
-
-## 🚀 Featured Projects
+## 🎀 Featured Projects
 
 ### 🎓 Examination Management System
-A complete platform for examination scheduling, marks processing, result generation and academic workflows.
+Comprehensive platform for examinations, marks processing and result generation.
 
 ### 📚 Academic Management System
-Academic administration system for institutions and educational organizations.
+Academic administration and student management solution.
 
 ### ✅ Attendance Tracker
-Attendance management solution developed using PHP and MySQL.
+Attendance management system built with PHP and MySQL.
 
 ### 📱 QR Scanner
-QR code scanning utility with modern frontend implementation.
+Modern QR scanning application.
 
 ---
 
-## 📈 Current Learning Goals
+## 🌈 Connect With Me
 
-- Advanced Laravel Architecture
-- REST API Development
-- React Ecosystem
-- Node.js Scalability
-- System Design
+💻 GitHub: github.com/renugangwar1
+
+📍 Noida, India
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- GitHub: github.com/renugangwar1
-- Location: Noida, Uttar Pradesh, India
+### ✨ Thanks for visiting my profile ✨
 
----
+🌸 Have a wonderful day 🌸
 
-### 💡 Fun Fact
-
-I enjoy building real-world education and examination platforms that simplify institutional workflows.
+</div>
