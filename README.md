@@ -170,13 +170,6 @@ Business Management
 </div>
 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=renugangwar1&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
