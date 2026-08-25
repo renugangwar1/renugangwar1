@@ -20,27 +20,28 @@
   <img src="https://img.shields.io/badge/GitHub-renugangwar1-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Say%20Hi!-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hi!-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="400" alt="Animated line divider"/>
+<!-- Replaced with a highly stable animated aesthetic wave -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Animated line divider"/>
 
 </div>
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Technologist%20Light%20Skin%20Tone.png" width="35" align="center"/> A little about me...
+### 👩🏻‍💻 A little about me...
 
-* 👩🏻‍💻 **Currently building:** EdTech platforms (ERPs, exam systems, student management)
+* 💻 **Currently building:** EdTech platforms (ERPs, exam systems, student management)
 * 🧠 **Currently deepening:** My system design and performance chops
 * 💡 **My focus:** Clean backend architecture, REST APIs, and workflow automation
 * ☕ **Fuel:** Good coffee and a passion for problem-solving!
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center"/> My Tech Backpack
+### 🎒 My Tech Backpack
 
 <div align="center">
   
@@ -50,7 +51,7 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" align="center"/> Featured Spells & Potions
+### ✨ Featured Spells & Potions
 
 | ✨ Project | 🎯 What it does | 💻 Magic Used |
 |:---|:---|:---|
@@ -62,22 +63,22 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center"/> GitHub Journey
+### 🚀 GitHub Journey
 
 <div align="center">
 
-<!-- Changed theme to 'radical' for a cuter pink/purple aesthetic -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renugangwar1&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- Updated to the stable Demolab server instead of deprecated Heroku -->
+<img src="https://streak-stats.demolab.com/?user=renugangwar1&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Animated contribution snake -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<!-- Fixed Snake URL to point to YOUR repository output once you run the action -->
+<img src="https://raw.githubusercontent.com/renugangwar1/renugangwar1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -85,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="400" alt="Animated line divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Animated line divider"/>
 
 <br><br>
 
