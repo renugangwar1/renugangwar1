@@ -1,31 +1,71 @@
 <div align="center">
 
-  <!-- Animated Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi%2C+I'm+Renu+Gangwar+%F0%9F%90%A7;Full+Stack+Developer;Laravel+%7C+React+%7C+MERN;Building+Scalable+EdTech+%26+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Renu+Gangwar+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%C2%B7+React+%C2%B7+MERN" alt="Typing SVG" />
 
-  <p align="center">
-    <strong>Full Stack Developer</strong> based in 📍 Noida, India
-  </p>
+<sub>Noida, India · turning messy requirements into simple, reliable software</sub>
 
-  <!-- Animated Quick Badges -->
-  <a href="https://github.com/renugangwar1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Views&color=9333EA&style=for-the-badge" alt="Profile Views" />
+<br><br>
+
+<a href="https://github.com/renugangwar1">
+  <img src="https://img.shields.io/badge/GitHub-renugangwar1-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-8B5CF6?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br />
+<br>
 
----
+## About
 
-### ⚡ Quick Glance
+I build **EdTech platforms** — ERPs, exam systems, student management — with a focus on clean backend architecture, REST APIs, and workflow automation. Currently deepening my system design and performance chops.
 
-```text
-🔭 Focus       : EdTech ERPs, Examination Engines & Workflow Automation
-⚙️ Specialties : Backend Architecture, Database Optimization & RESTful APIs
-🌱 Learning    : Advanced System Design & Cloud Performance Scaling
-💡 Philosophy  : Turning complex business chaos into clean, reliable code.
+<br>
+
+## Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,mysql,mongodb,git&theme=dark" />
+</div>
+
+<br>
+
+## Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🎓 **Examination Management System** | End-to-end exam workflow — marks, results, reappears | `Laravel` `MySQL` |
+| 🏫 **Academic Management System** | Students, courses & institutes in one place | `PHP` `MySQL` `JS` |
+| 💬 **Chat Application** | WhatsApp-style real-time messaging | `PHP` `JS` |
+| 💄 **HoneyBee Beauty Platform** | Clean product showcase for a cosmetics brand | `Laravel` `Bootstrap` |
+| 📊 **Attendance Tracker** | Attendance records & reporting | `PHP` `MySQL` |
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renugangwar1&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Building useful software, one project at a time 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=renugangwar1&label=Profile%20Views&color=8B5CF6&style=flat" />
+
+</div>
