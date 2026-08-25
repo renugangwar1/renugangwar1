@@ -83,8 +83,7 @@
   <br><br>
 
   <!-- Snake Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/renugangwar1/renugangwar1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
+  
 </div>
 
 <br>
