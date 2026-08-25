@@ -76,9 +76,6 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=renugangwar1&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugangwar1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
   <br><br>
 
   <img src="https://streak-stats.demolab.com/?user=renugangwar1&theme=radical&hide_border=true" alt="GitHub Streak" />
